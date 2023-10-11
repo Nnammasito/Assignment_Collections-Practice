@@ -1,0 +1,14 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\bin\Debug\net7.0\Assignment_Collections-Practice.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\bin\Debug\net7.0\Assignment_Collections-Practice.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\bin\Debug\net7.0\Assignment_Collections-Practice.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\bin\Debug\net7.0\Assignment_Collections-Practice.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\bin\Debug\net7.0\Assignment_Collections-Practice.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\refint\Assignment_Collections-Practice.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\Assignment_Collections-Practice.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Collections-Practice\obj\Debug\net7.0\ref\Assignment_Collections-Practice.dll
